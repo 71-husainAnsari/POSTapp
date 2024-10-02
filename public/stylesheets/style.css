@@ -1,0 +1,11 @@
+body{
+    width:100%;
+    height:100%;
+    background-color: slateblue;
+    padding:20px;
+}
+
+.editbody{
+    background-color: slateblue;
+    padding:20px;
+}
